@@ -1,0 +1,17 @@
+Work at Hertz
+
+1. Helped TAS team in verification and troubleshoot of Instant Return application issue  - 21-05-2018
+ issue they were facing is 
+Team was getting error "Rate Request Failed, return inside"
+checked and replicated the issue in DEV and QUAL RTF with given set of inputs 
+Rates were returning as expected
+
+2. Provided required information to Excal team regarding error and its description
+Team requested for error details for given error code
+gone through the code and checked that rate error details are available in errorConfig.xml file
+provided same file to Muddanna and Siddarth  - 17-05-2018
+
+
+
+
+
